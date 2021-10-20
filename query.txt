@@ -1,0 +1,1 @@
+SELECT "{'name':'"  || name || "'" || ",'value':" || "'" || value || "','host':" || "'" || host || "'}," as full from moz_cookies
